@@ -4,7 +4,7 @@ This repository documents my journey of using Python to solve real-world mechani
 
 ---
 
-## 👨‍🔧 About Me
+## About Me
 
 Mechanical Engineering student (3rd Year)  
 Chassis Head – eBAJA 2027 University Team  
@@ -17,7 +17,7 @@ I am focused on integrating:
 - Engineering Simulation
 
 
-## 🛠 Technical Focus
+## Technical Focus
 
 This repository includes:
 
@@ -34,7 +34,7 @@ Upcoming:
 
 ---
 
-## 🎯 Why This Repository?
+## Why This Repository?
 
 As a Mechanical Engineer, I believe future mobility requires:
 - Strong control systems foundation
@@ -45,7 +45,7 @@ This repo reflects my transition from traditional mechanical design to software-
 
 ---
 
-## 🚀 Vision
+## Target and Vision
 
 Bridging Mechanical Engineering with Intelligent Systems  
 Building toward EV & Autonomous Mobility Development  
